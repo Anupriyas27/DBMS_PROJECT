@@ -1,6 +1,6 @@
 # DBMS_PROJECT
 
-# Restaurant Management System (Full Stack Project)
+# Restaurant Management System 
 Description:
 
 This project is a Restaurant Management System built using a full-stack architecture. It provides digital solutions for managing restaurant operations like table booking, menu management, order tracking, billing, and customer feedback.
